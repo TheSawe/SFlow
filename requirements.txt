@@ -1,0 +1,5 @@
+setuptools~=69.2.0
+PyQt6~=6.6.1
+PyAudio~=0.2.14
+vosk~=0.3.45
+pymysql~=1.1.0
