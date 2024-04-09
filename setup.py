@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='PyProject_Assistant',
+    name='SFlow',
     version='0.0.1',
     packages=[''],
     url='https://pyproject-assistant.netlify.app/',
