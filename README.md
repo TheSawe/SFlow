@@ -1,5 +1,5 @@
 # SFlow 
-This is a [Python](https://www.python.org) project bootstrapped with [PyQt6](https://pypi.org/project/PyQt6). 
+This is a [Python](https://www.python.org) project powered by [PyQt6](https://pypi.org/project/PyQt6). 
 # Getting Started
 First, open the terminal and write following lines: 
 ``` 
